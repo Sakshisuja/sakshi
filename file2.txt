@@ -1,1 +1,2 @@
 We're restoring the file.
+hello.
